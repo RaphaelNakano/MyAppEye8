@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyAppEye8</string>
+    <string name="nome">Nome</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="confirmarsenha">Confirmar Senha</string>
+</resources>
